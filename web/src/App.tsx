@@ -142,7 +142,7 @@ function App() {
   }
 
   return (
-    <div className="bg-canvas text-ink flex h-screen flex-col overflow-hidden">
+    <div className="bg-canvas text-ink flex h-dvh flex-col overflow-hidden">
       <Toaster position="bottom-right" richColors closeButton />
       <TopBar
         state={state}

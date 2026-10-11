@@ -146,3 +146,9 @@
     font-variant-numeric: tabular-nums;
   }
 }
+
+/* 分栏组件内联限制了触摸手势，内容区保留浏览器滚动和双指缩放，分隔条仍处理拖动 */
+[data-group],
+[data-panel] > div {
+  touch-action: auto !important;
+}
