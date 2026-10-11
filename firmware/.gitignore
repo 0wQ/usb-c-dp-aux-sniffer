@@ -1,0 +1,13 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+
+.pio/
+# Sandbox-local PlatformIO core dir (symlinks to ~/.platformio) used when the
+# real ~/.platformio is not writable. Safe to delete.
+.pio-core/
+.vscode/
+.tmp/
+compile_commands.json
+.venv/
+__pycache__/

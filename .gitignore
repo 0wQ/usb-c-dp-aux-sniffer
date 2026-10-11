@@ -1,0 +1,13 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+
+AGENTS.md
+
+.vscode/
+.tmp/
+.pio/
+
+node_modules/
+dist/
+*.tsbuildinfo
